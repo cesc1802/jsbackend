@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "app-root-path": "~2.1.0",
-        "bcrypt": "^3.0.7",
+        "bcrypt": "^5.0.0",
         "body-parser": "~1.18.3",
         "bull": "^3.12.1",
         "bull-arena": "^2.6.4",
